@@ -21,7 +21,7 @@ public class Simple {
      */
     public static void main(String[] args) {
         // output a string to console
-        System.out.print("Hello Simo!!");
+        System.out.print("Hello Simo!");
 
         // output is based on input arguments
         if (args.length == 1) {
@@ -29,3 +29,4 @@ public class Simple {
         }
     }
 }
+
