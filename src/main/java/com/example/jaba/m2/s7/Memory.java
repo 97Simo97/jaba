@@ -24,7 +24,7 @@ public class Memory {
         System.out.println(x);
 
         // reference, the object is on the heap, it contains primitive values
-        int values[] = { 7, x };
+        int[] values = { 7, x };
         System.out.println(Arrays.toString(values));
 
         String s = "Tom";
